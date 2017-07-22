@@ -1,0 +1,9 @@
+3)....... Algorithms:-------
+_________________________________________________________
+3.1 Analysis.
+3.2 Sorting and searching Techniques.
+3.3 Divide and Conquer.
+3.4 Greedy Algorithms .
+3.5 Backtracking .
+3.6 Dynamic Programming .
+3.7 Complexity Classes .
